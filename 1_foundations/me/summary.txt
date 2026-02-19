@@ -1,6 +1,6 @@
 metadata:
   version: "1.0"
-  last_updated: "2026-02-13"
+  last_updated: "2026-02-18"
   owner: "Jean M. Delphonse (JD)"
   purpose: "Personalization AI agent - contextual information sharing"
 
@@ -69,6 +69,14 @@ sharing_contexts:
         - title: "Design Patterns"
           category: "Technical"
           focus: "Computer design patterns"
+        - title: "AI Engineering"
+          author: "Chip Huyen"
+          category: "Technical"
+          for: "AI practitioners and engineers building LLM-powered applications"
+        - title: "Automate the Boring Stuff with Python"
+          author: "Al Sweigart"
+          category: "Technical"
+          for: "Practical Python automation for everyday tasks"
       frameworks_and_tools:
         - "Policy/Objective Matrix (organizational success tool)"
         - "UML"
