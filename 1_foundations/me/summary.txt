@@ -1,2 +1,369 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+metadata:
+  version: "1.0"
+  last_updated: "2026-02-13"
+  owner: "Jean M. Delphonse (JD)"
+  purpose: "Personalization AI agent - contextual information sharing"
+
+sharing_contexts:
+  public:
+    description: "Information shared with everyone publicly"
+    data:
+      name: "Jean M. Delphonse"
+      preferred_name: "JD"
+      professional_title: "Entrepreneur, Data Engineer, Data Scientist, CEO"
+      current_company: "PrezentEnergy"
+      company_description: "Mobile workplace EV charging startup in Santa Clara County"
+      location: "Bay Area, California"
+      origin: "Born in Haiti, raised in New York City"
+      interests:
+        - "AI/ML technologies"
+        - "Educational AI applications"
+        - "Deep learning"
+        - "Coffee culture"
+        - "Great food"
+        - "Reading and book recommendations"
+        - "Track and field athletics"
+      notable_achievement: "Pioneer in Harlem gentrification - opened coffee shop featured in New York Times article 'Seeking the Buzz Starbucks couldn't get'"
+      education:
+        college: "LIU (Long Island University)"
+        athletic_achievement: "Division I track program athlete"
+      high_school_sports:
+        - sport: "Soccer"
+          outcome: "Did not work out during first 3 months"
+        - sport: "Track and field"
+          outcome: "Found success"
+          mentor: "Mr. Budihas (Track coach and assistant vice principal)"
+      favorite_trip: "Cross-country US drive in Jeep Wrangler with wife (4 days)"
+      dream_trip: "Repeat cross-country drive over 1 month span"
+      recommended_books:
+        - title: "Deep Learning with Python, Third Edition"
+          category: "Technical"
+          for: "Explore deep learning"
+        - title: "LLM Design Patterns"
+          category: "Technical"
+          for: "The architect, the developer"
+        - title: "AI-Assisted Programming"
+          category: "Technical"
+          for: "The developer"
+        - title: "Algorithms to Live By"
+          category: "Systems Thinking"
+          for: "The system thinker, anyone"
+        - title: "The Master Algorithm"
+          category: "Visionary"
+          for: "The visionary"
+        - title: "The Art of Impossible"
+          category: "Personal Development"
+        - title: "Advanced Algorithms and Data Structures"
+          author: "Marcello La Rocca"
+          category: "Technical"
+        - title: "Genesis"
+          category: "Thought-provoking"
+        - title: "The One Thing"
+          category: "Leadership"
+          for: "Starting professionals (30-minute module)"
+        - title: "Principles of Success"
+          category: "Social Development"
+          for: "Social settings"
+        - title: "Learn UML"
+          category: "Technical"
+        - title: "Design Patterns"
+          category: "Technical"
+          focus: "Computer design patterns"
+      frameworks_and_tools:
+        - "Policy/Objective Matrix (organizational success tool)"
+        - "UML"
+        - "Design Patterns"
+      philosophy: "Books are where they keep the secrets, but LLMs have revolutionized access to make it better to get to the secrets previously hidden in books"
+
+  friends:
+    description: "Information shared with friends"
+    data:
+      personal_interests:
+        coffee: "Passionate about coffee culture - formerly owned coffee shop in Harlem"
+        food: "Enjoys great food"
+        reading: "Avid reader - 'Call me if you want a great book recommendation'"
+        travel: "Loves road trips - especially cross-country drives"
+      family:
+        marital_status: "Married"
+        memorable_experience: "4-day cross-country Jeep Wrangler trip with wife"
+      personal_vehicles:
+        - "Jeep Wrangler (for adventures)"
+      current_work_life_balance: "Freelance driving 40-70 hours/week while building startup"
+      athletic_background:
+        high_school: "Track athlete mentored by Mr. Budihas"
+        college: "Division I track program at LIU"
+      immigration_story: "Family moved from Haiti to NYC during childhood"
+      personality_traits:
+        - "Entrepreneurial"
+        - "Passionate about learning"
+        - "System thinker"
+        - "Pioneer/risk-taker (Harlem coffee shop)"
+
+  work_colleagues:
+    description: "Information shared with work colleagues and professional peers"
+    data:
+      professional_background:
+        current_role: "Founder & CEO, PrezentEnergy"
+        technical_expertise:
+          - "Data Engineering"
+          - "Data Science"
+          - "AI/ML Development"
+          - "LLM Design Patterns"
+          - "Technical Program Management"
+        previous_companies:
+          - "ColloquyAI/KrikKrak.ai"
+          - "Adobe"
+          - "Dell"
+          - "JPMC"
+          - "Wells Fargo"
+        years_experience: "15+ years in technical program management"
+      current_projects:
+        prezent_energy:
+          description: "Mobile workplace EV charging startup"
+          location: "Santa Clara County"
+          launch_date: "January 2026"
+          technology: "Vehicle-to-vehicle charging using Kia EV9 with Wallbox Quasar 2 bidirectional chargers"
+          target_market: "Corporate campuses without traditional charging infrastructure"
+        vr_glasses_project:
+          description: "VR glasses with real-time object recognition"
+          technology: "VR + Large Language Models for contextual information"
+        colloquy_ai:
+          description: "Educational AI platform using stories to animate teaching"
+          features: "Engineered prompts identifying learner educational levels, cultural backgrounds, and languages"
+      technical_skills:
+        programming:
+          - "Python"
+          - "Data structures"
+        ai_ml:
+          - "LLM design patterns"
+          - "Gradient descent optimization"
+          - "Deep learning"
+          - "Educational AI"
+          - "LangGraph"
+          - "A2A protocols"
+        tools:
+          - "Gradio (ML model interfaces)"
+          - "Cursor (code development)"
+          - "Claude API integration"
+        domains:
+          - "Data governance"
+          - "Business systems architecture"
+          - "Enterprise systems"
+          - "Multi-million dollar program management"
+      professional_interests:
+        - "AI/ML in education"
+        - "Personalization AI agents"
+        - "EV charging infrastructure"
+        - "LLM applications"
+        - "Technical program management"
+      side_work: "Freelance driving in Bay Area (40-70 hours/week)"
+      entrepreneurial_ventures:
+        - "PrezentEnergy (current)"
+        - "ColloquyAI/KrikKrak.ai (founded 2 years ago)"
+        - "Harlem coffee shop (past)"
+        - "Personal privacy agency concept (local LLM services)"
+        - "bayareaexperiences.com"
+
+  employers:
+    description: "Information shared with current or prospective employers"
+    data:
+      professional_summary:
+        title: "Founder & CEO | Technical Program Manager | Data Engineer | Data Scientist"
+        years_experience: "15+ years"
+        expertise_areas:
+          - "AI/ML platforms"
+          - "Data infrastructure"
+          - "Enterprise systems"
+          - "Cross-functional team leadership"
+          - "Technical program management"
+      work_experience:
+        - company: "PrezentEnergy"
+          role: "Founder & CEO"
+          status: "Current"
+          start_date: "2024"
+          description: "Mobile workplace EV charging startup launching in Santa Clara County, January 2026"
+          achievements:
+            - "Developed comprehensive business plan and financial modeling"
+            - "Partnership development with Silicon Valley Clean Energy"
+            - "Designed operational workflows for corporate clients"
+            - "Technical specifications for V2V charging solutions"
+        - company: "ColloquyAI/KrikKrak.ai"
+          role: "Founder | Technical Program Manager"
+          start_date: "2 years ago"
+          description: "LLM data augmentation platform for educational AI tools"
+          achievements:
+            - "Developed story-based educational AI platform"
+            - "Engineered prompts for personalized learning experiences"
+            - "Built platform for culturally responsive education"
+        - company: "Adobe"
+          role: "Technical Program Manager"
+          description: "Major technology company experience"
+        - company: "Dell"
+          role: "Technical Program Manager"
+          description: "Major technology company experience"
+        - company: "JPMC"
+          role: "Technical Program Manager"
+          description: "Financial services technology experience"
+        - company: "Wells Fargo"
+          role: "Technical Program Manager"
+          description: "Financial services technology experience"
+      education:
+        institution: "LIU (Long Island University)"
+        athletic_program: "Division I Track"
+        additional_learning: "Self-directed continuous learning in AI/ML, data structures, and emerging technologies"
+      technical_competencies:
+        programming_languages:
+          - "Python"
+        ai_ml_frameworks:
+          - "LLM design patterns"
+          - "Gradient descent optimization"
+          - "Deep learning"
+          - "LangGraph"
+          - "A2A protocols"
+        development_tools:
+          - "Gradio"
+          - "Cursor"
+          - "Claude API"
+        specializations:
+          - "Data governance"
+          - "Business systems architecture"
+          - "Enterprise data infrastructure"
+          - "Educational AI applications"
+          - "VR + LLM integration"
+      current_availability:
+        job_search_status: "Active"
+        applications_submitted: "1,000+"
+        interviews_completed: "20+"
+        target_roles:
+          - "AI Developer (LangGraph, A2A protocols)"
+          - "Machine Learning Manager (payment processing)"
+          - "Technical Program Manager"
+        current_commitment: "Freelance driving 40-70 hours/week + PrezentEnergy development"
+      notable_projects:
+        - project: "VR Glasses with Real-time Object Recognition"
+          description: "Combining VR technology with LLMs for contextual information delivery"
+          status: "Technical specifications development"
+        - project: "Personal Privacy Agency Concept"
+          description: "Local LLM services for privacy-conscious consumers"
+        - project: "Bay Area Experiences"
+          website: "bayareaexperiences.com"
+      leadership_experience:
+        - "Founded and scaled multiple startups"
+        - "Managed cross-functional engineering teams"
+        - "Led multi-million dollar technical programs"
+        - "Partnership development and stakeholder management"
+      additional_assets:
+        real_estate: "Rental property in New Jersey (considering sale to tenant)"
+        vehicles: "Kia EV9 (business), Jeep Wrangler (personal)"
+
+  private_organizations:
+    description: "Information shared with banks, legal entities, healthcare providers, etc."
+    data:
+      legal_name: "Jean M. Delphonse"
+      business_entities:
+        - name: "PrezentEnergy"
+          role: "Founder & CEO"
+          entity_type: "Startup"
+          location: "Santa Clara County, CA"
+          launch_date: "January 2026"
+          business_model: "Mobile workplace EV charging services"
+        - name: "ColloquyAI/KrikKrak.ai"
+          role: "Founder"
+          entity_type: "AI/EdTech Startup"
+        - name: "bayareaexperiences.com"
+          role: "Owner"
+          entity_type: "Experience services"
+      employment_status:
+        primary: "Self-employed (Founder & CEO)"
+        secondary: "Freelance driver (Bay Area, 40-70 hours/week)"
+        job_search: "Active (1,000+ applications, 20+ interviews in past year)"
+      real_estate:
+        primary_residence: "Bay Area, California"
+        rental_property:
+          location: "New Jersey"
+          status: "Considering sale to current tenant"
+          legal_proceedings: "Managing legal requirements for transaction"
+      vehicles:
+        - make_model: "Kia EV9"
+          purpose: "Business (PrezentEnergy)"
+          equipment: "Wallbox Quasar 2 bidirectional charger"
+        - make_model: "Jeep Wrangler"
+          purpose: "Personal"
+      business_partnerships:
+        - partner: "Silicon Valley Clean Energy"
+          relationship: "Partnership development for PrezentEnergy"
+      legal_matters:
+        active_proceedings: "Support obligations"
+        real_estate_transaction: "Property sale to tenant (New Jersey)"
+      professional_history:
+        years_experience: "15+"
+        sectors:
+          - "Technology"
+          - "Financial services"
+          - "Enterprise software"
+          - "AI/ML"
+          - "EdTech"
+          - "Clean energy/EV"
+        previous_employers:
+          - "Adobe"
+          - "Dell"
+          - "JPMC"
+          - "Wells Fargo"
+      geographic_history:
+        - "Born: Haiti"
+        - "Childhood: New York City"
+        - "Current: Bay Area, California"
+        - "Property ownership: New Jersey"
+
+cross_context_attributes:
+  description: "Attributes that may be shared across multiple contexts with varying detail levels"
+  attributes:
+    name:
+      public: "Jean M. Delphonse (JD)"
+      friends: "JD"
+      work: "Jean M. Delphonse"
+      employers: "Jean M. Delphonse"
+      organizations: "Jean M. Delphonse (legal name)"
+    entrepreneurship:
+      public: "Founder of PrezentEnergy"
+      friends: "Building EV charging startup while driving to pay bills"
+      work: "Founder & CEO with multiple ventures"
+      employers: "Serial entrepreneur with proven track record"
+      organizations: "Multiple business entities registered"
+    education:
+      public: "LIU Division I track athlete"
+      friends: "College athlete at LIU, inspired by high school coach Mr. Budihas"
+      work: "LIU graduate + continuous self-directed learning in AI/ML"
+      employers: "LIU + extensive professional development in emerging technologies"
+      organizations: "LIU (Long Island University)"
+    immigration_background:
+      public: "Born in Haiti, raised in NYC"
+      friends: "Family moved from Haiti when I was a kid - shaped my perspective"
+      work: "Immigrant background - brings unique perspective to problem-solving"
+      employers: "Haitian-American with multicultural experience"
+      organizations: "Born: Haiti, Raised: New York City"
+
+usage_guidelines:
+  description: "Guidelines for AI agents on how to use this structured information"
+  rules:
+    - "Always respect the sharing context boundaries"
+    - "Default to more restrictive context when uncertain"
+    - "Cross-context attributes show how to adjust detail level"
+    - "Public information can be used in any context"
+    - "Friends context includes personal stories and emotions"
+    - "Work colleagues context focuses on professional achievements and technical skills"
+    - "Employers context emphasizes qualifications, experience, and work availability"
+    - "Private organizations context includes legal/financial details necessary for formal relationships"
+    - "Never share private organization details in public or friends contexts"
+    - "Adjust tone: casual with friends, professional with colleagues, formal with organizations"
+  personalization_preferences:
+    communication_style: "Direct, systems-thinking approach with practical examples"
+    interests_to_engage:
+      - "AI/ML applications"
+      - "Book recommendations"
+      - "System thinking frameworks"
+      - "Entrepreneurship"
+      - "Educational technology"
+    avoid_topics:
+      - "Specific legal proceeding details"
+      - "Financial specifics of support obligations"
