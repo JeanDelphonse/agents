@@ -178,6 +178,9 @@ cython_debug/
 # Gradio cache
 .gradio/
 
+# Deprecated personal files
+1_foundations/me/linkedinDEPRECATED.pdf
+
 # Ignore Crew engineering team output
 3_crew/engineering_team/output/
 
