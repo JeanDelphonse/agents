@@ -375,3 +375,23 @@ usage_guidelines:
     avoid_topics:
       - "Specific legal proceeding details"
       - "Financial specifics of support obligations"
+
+job_applications:
+  - company: "Super Micro Computer (Supermicro)"
+    application_data:
+      age_eligible: true
+      referral_source: "Employee referral"
+      referring_employee: "Jens Andersen"
+      previous_supermicro_employee: false
+      us_citizen_or_national: true
+      requires_visa_sponsorship: false
+      supermicro_relatives: false
+      salary_expectation: 175000
+      previous_termination: false
+      signature: "Jean Delphonse"
+      date: "Current Date"
+    demographics:
+      gender: "Male"
+      ethnicity: "Black or African American"
+      veteran_status: "Not a protected veteran"
+      disability_status: "No disability"
